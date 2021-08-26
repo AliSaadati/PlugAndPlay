@@ -12,4 +12,4 @@ The react source code can be found in the [PlugAndPlay/application](https://gith
 
 ## Additional projects by Ali
 
-Additional project can be found at [www.alisaadati.com](https://www.alisaadati.com/#projects).
+Additional project can be found at [www.alisaadati.com](https://www.alisaadati.com/#Projects).
